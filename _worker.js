@@ -15,6 +15,7 @@ let MainData = `
 https://submit.xz61.cn:23443/api/v1/client/subscribe?token=699d0f09dd72b2c71c276558beb349ee
 https://soa.689861.xyz/api/v1/client/subscribe?token=79b12cffe94678d1449db4c640fb09aa
 https://glink.db-link.in:40580/link/z9JsA0VuUUlgrcTX?clash=1
+https://mz.louwangzhiyu.xyz/api/v1/client/subscribe?token=1d0edfbe8f31554006cb1a7130a19e25
 `
 
 let urls = [];
